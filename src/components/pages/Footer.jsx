@@ -23,11 +23,11 @@ const Footer = () => {
               <p>Copyright by phototime - all right reserved</p>
             </div>
           </div>
-          <div class="col-lg-6 text-right">
+          <div class="col-lg-6 text-end">
             <div class="foot-logo">
               <img src="assets/images/foot-logo.png" alt="" />
               <div class="design-by">
-                design By <a href="http://wapborhan.com">Borhan Uddin</a>
+                design By <a href="http://srdreamlab.com">SR Dream Lab</a>
               </div>
             </div>
           </div>

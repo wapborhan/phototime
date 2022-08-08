@@ -23,9 +23,9 @@ const Subscription = () => {
                   aria-label="Recipient's username"
                   aria-describedby="basic-addon2"
                 />
-                <div class="input-group-append sub-ic">
-                  <span class="input-group-text" id="basic-addon2">
-                    <i class="fas fa-check"></i>
+                <div class="input-group-append sub-ic btn btn-success">
+                  <span id="basic-addon2">
+                    <i class="fas fa-check">Submit</i>
                   </span>
                 </div>
               </div>
