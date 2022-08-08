@@ -2,7 +2,12 @@ import React from "react";
 
 const Subscription = () => {
   return (
-    <section id="subscribe">
+    <section
+      id="subscribe"
+      style={{
+        backgroundImage: `url("assets/images/subs-bg.jpg")`,
+      }}
+    >
       <div class="subs-overly"></div>
       <div class="container">
         <div class="row text-center ">
