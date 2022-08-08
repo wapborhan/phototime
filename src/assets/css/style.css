@@ -19,7 +19,7 @@ li {
 /*Header Part Start*/
 
 #header {
-    background: url(../images/head-bg.jpg);
+    /* background: url(../images/head-bg.jpg); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -308,11 +308,11 @@ button.slider:hover {
 }
 
 .carousel-control-next-icon {
-    background-image: url(../images/icon/next.svg);
+    /* background-image: url(../images/icon/next.svg); */
 }
 
 .carousel-control-prev-icon {
-    background-image: url(../images/icon/prev.svg);
+    /* background-image: url(../images/icon/prev.svg); */
 }
 
 /*Design part end*/
@@ -350,7 +350,7 @@ button.slider:hover {
 
 /*Subscribe PArt STart*/
 #subscribe {
-    background: url(../images/subs-bg.jpg);
+    /* background: url(../images/subs-bg.jpg); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
