@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/phototime/static/css/main.bd681eed.css",
+    "main.js": "/phototime/static/js/main.d8dbccf4.js",
+    "static/js/787.a5596b41.chunk.js": "/phototime/static/js/787.a5596b41.chunk.js",
+    "static/media/GothamRounded-Medium.woff": "/phototime/static/media/GothamRounded-Medium.4a71ecfa1dfbf75932e9.woff",
+    "static/media/GothamRounded-Bold.woff": "/phototime/static/media/GothamRounded-Bold.7362f339f32ac6d5bc67.woff",
+    "static/media/GothamRounded-Light.woff": "/phototime/static/media/GothamRounded-Light.f494d1208bd318098512.woff",
+    "static/media/GothamRounded-Medium.woff2": "/phototime/static/media/GothamRounded-Medium.4d5856f8cb7b499c49d1.woff2",
+    "static/media/GothamRounded-Bold.woff2": "/phototime/static/media/GothamRounded-Bold.e25e20c2940f32914128.woff2",
+    "static/media/GothamRounded-Light.woff2": "/phototime/static/media/GothamRounded-Light.5ab3e0b13afdee3006c9.woff2",
+    "index.html": "/phototime/index.html",
+    "main.bd681eed.css.map": "/phototime/static/css/main.bd681eed.css.map",
+    "main.d8dbccf4.js.map": "/phototime/static/js/main.d8dbccf4.js.map",
+    "787.a5596b41.chunk.js.map": "/phototime/static/js/787.a5596b41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd681eed.css",
+    "static/js/main.d8dbccf4.js"
+  ]
+}
