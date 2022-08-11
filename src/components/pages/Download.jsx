@@ -3,9 +3,9 @@ import React from "react";
 const Download = () => {
   return (
     <section id="download">
-      <div class="container">
-        <div class="row text-center">
-          <div class="col-lg-12 download-head">
+      <div className="container">
+        <div className="row text-center">
+          <div className="col-lg-12 download-head">
             <h2>Download It</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -14,17 +14,17 @@ const Download = () => {
               nisi ut aliquip ex ea commodo consequat.
             </p>
           </div>
-          <div class="dlod-btn">
-            <a class="app-btn" href="#">
+          <div className="dlod-btn">
+            <a className="app-btn" href="#">
               APPLE STORE{" "}
-              <span class="ico">
-                <i class="fab fa-apple"></i>
+              <span className="ico">
+                <i className="fab fa-apple"></i>
               </span>
             </a>
-            <a class="app-btn" href="#">
+            <a className="app-btn" href="#">
               PLAY STORE{" "}
-              <span class="ico">
-                <i class="fab fa-apple"></i>
+              <span className="ico">
+                <i className="fab fa-apple"></i>
               </span>
             </a>
           </div>

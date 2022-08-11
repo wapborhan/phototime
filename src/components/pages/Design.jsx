@@ -3,34 +3,34 @@ import React from "react";
 const Design = () => {
   return (
     <section id="design">
-      <div class="container">
+      <div className="container">
         <div
           id="carouselExampleIndicators"
-          class="carousel slide"
+          className="carousel slide"
           data-ride="carousel"
         >
-          <ol class="carousel-indicators">
+          <ol className="carousel-indicators">
             <li
               data-target="#carouselExampleIndicators"
               data-slide-to="0"
-              class="active"
+              className="active"
             ></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
           </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div class="slider-iteam">
-                <div class="slider-img">
+          <div className="carousel-inner">
+            <div className="carousel-item active">
+              <div className="slider-iteam">
+                <div className="slider-img">
                   <img
-                    class="w-100"
+                    className="w-100"
                     src="assets/images/design-mobile.png"
                     alt="First slide"
                   />
                 </div>
-                <div class="carousel-captions">
+                <div className="carousel-captions">
                   <h5>Design</h5>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,{" "}
@@ -41,21 +41,21 @@ const Design = () => {
                   </p>
                   <p>nostrud exercitation ullamco laboris nisi </p>
                   <p>ut aliquip ex ea commodo consequat.</p>
-                  <button class="slider">Learn More</button>
+                  <button className="slider">Learn More</button>
                 </div>
               </div>
             </div>
 
-            <div class="carousel-item">
-              <div class="slider-iteam">
-                <div class="slider-img">
+            <div className="carousel-item">
+              <div className="slider-iteam">
+                <div className="slider-img">
                   <img
-                    class="w-100"
+                    className="w-100"
                     src="assets/images/design-mobile.png"
                     alt="First slide"
                   />
                 </div>
-                <div class="carousel-captions">
+                <div className="carousel-captions">
                   <h5>Design</h5>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,{" "}
@@ -66,21 +66,21 @@ const Design = () => {
                   </p>
                   <p>nostrud exercitation ullamco laboris nisi </p>
                   <p>ut aliquip ex ea commodo consequat.</p>
-                  <button class="slider">Learn More</button>
+                  <button className="slider">Learn More</button>
                 </div>
               </div>
             </div>
 
-            <div class="carousel-item">
-              <div class="slider-iteam">
-                <div class="slider-img">
+            <div className="carousel-item">
+              <div className="slider-iteam">
+                <div className="slider-img">
                   <img
-                    class="w-100"
+                    className="w-100"
                     src="assets/images/design-mobile.png"
                     alt="First slide"
                   />
                 </div>
-                <div class="carousel-captions">
+                <div className="carousel-captions">
                   <h5>Design</h5>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,{" "}
@@ -91,21 +91,21 @@ const Design = () => {
                   </p>
                   <p>nostrud exercitation ullamco laboris nisi </p>
                   <p>ut aliquip ex ea commodo consequat.</p>
-                  <button class="slider">Learn More</button>
+                  <button className="slider">Learn More</button>
                 </div>
               </div>
             </div>
 
-            <div class="carousel-item">
-              <div class="slider-iteam">
-                <div class="slider-img">
+            <div className="carousel-item">
+              <div className="slider-iteam">
+                <div className="slider-img">
                   <img
-                    class="w-100"
+                    className="w-100"
                     src="assets/images/design-mobile.png"
                     alt="First slide"
                   />
                 </div>
-                <div class="carousel-captions">
+                <div className="carousel-captions">
                   <h5>Design</h5>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,{" "}
@@ -116,21 +116,21 @@ const Design = () => {
                   </p>
                   <p>nostrud exercitation ullamco laboris nisi </p>
                   <p>ut aliquip ex ea commodo consequat.</p>
-                  <button class="slider">Learn More</button>
+                  <button className="slider">Learn More</button>
                 </div>
               </div>
             </div>
 
-            <div class="carousel-item">
-              <div class="slider-iteam">
-                <div class="slider-img">
+            <div className="carousel-item">
+              <div className="slider-iteam">
+                <div className="slider-img">
                   <img
-                    class="w-100"
+                    className="w-100"
                     src="assets/images/design-mobile.png"
                     alt="First slide"
                   />
                 </div>
-                <div class="carousel-captions">
+                <div className="carousel-captions">
                   <h5>Design</h5>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,{" "}
@@ -141,36 +141,36 @@ const Design = () => {
                   </p>
                   <p>nostrud exercitation ullamco laboris nisi </p>
                   <p>ut aliquip ex ea commodo consequat.</p>
-                  <button class="slider">Learn More</button>
+                  <button className="slider">Learn More</button>
                 </div>
               </div>
             </div>
 
-            <div class="controlsBlock">
-              <div class="controls">
+            <div className="controlsBlock">
+              <div className="controls">
                 <a
-                  class="carousel-control-prev"
+                  className="carousel-control-prev"
                   href="#carouselExampleIndicators"
                   role="button"
                   data-slide="prev"
                 >
                   <span
-                    class="carousel-control-prev-icon"
+                    className="carousel-control-prev-icon"
                     aria-hidden="true"
                   ></span>
-                  <span class="sr-only">Previous</span>
+                  <span className="sr-only">Previous</span>
                 </a>
                 <a
-                  class="carousel-control-next"
+                  className="carousel-control-next"
                   href="#carouselExampleIndicators"
                   role="button"
                   data-slide="next"
                 >
                   <span
-                    class="carousel-control-next-icon"
+                    className="carousel-control-next-icon"
                     aria-hidden="true"
                   ></span>
-                  <span class="sr-only">Next</span>
+                  <span className="sr-only">Next</span>
                 </a>
               </div>
             </div>

@@ -8,24 +8,24 @@ const Subscription = () => {
         backgroundImage: `url("assets/images/subs-bg.jpg")`,
       }}
     >
-      <div class="subs-overly"></div>
-      <div class="container">
-        <div class="row text-center ">
-          <div class="col-lg-12 main-subs">
+      <div className="subs-overly"></div>
+      <div className="container">
+        <div className="row text-center ">
+          <div className="col-lg-12 main-subs">
             <h2>subscribe to us community</h2>
 
-            <div class="input-box">
-              <div class="input-group mb-3">
+            <div className="input-box">
+              <div className="input-group mb-3">
                 <input
                   type="text"
-                  class="form-control"
+                  className="form-control"
                   placeholder="YOUR MAIL"
                   aria-label="Recipient's username"
                   aria-describedby="basic-addon2"
                 />
-                <div class="input-group-append sub-ic btn btn-success">
+                <div className="input-group-append sub-ic btn btn-success">
                   <span id="basic-addon2">
-                    <i class="fas fa-check">Submit</i>
+                    <i className="fas fa-check">Submit</i>
                   </span>
                 </div>
               </div>
