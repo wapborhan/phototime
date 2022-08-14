@@ -1,11 +1,16 @@
 import React from "react";
+// Import Image
+import headBG from "../../assets/images/head-bg.jpg";
+import logo from "../../assets/images/logo.png";
+// Import Icon
+import { FaTwitterSquare, FaFacebookSquare, FaFlickr } from "react-icons/fa";
 
 const Header = () => {
   return (
     <section
       id="header"
       style={{
-        backgroundImage: `url("assets/images/head-bg.jpg")`,
+        backgroundImage: `url(${headBG})`,
       }}
     >
       <div className="container">
@@ -21,7 +26,7 @@ const Header = () => {
                 </li>
                 <li>
                   <a className="logo" href="#">
-                    <img src="assets/images/logo.png" alt="" />
+                    <img src={logo} alt="" />
                   </a>
                 </li>
                 <li>
@@ -43,17 +48,17 @@ const Header = () => {
           <ul>
             <li>
               <a href="#">
-                <i className="fab fa-twitter"></i>
+                <FaTwitterSquare />
               </a>
             </li>
             <li>
               <a href="#">
-                <i className="fab fa-flickr"></i>
+                <FaFlickr />
               </a>
             </li>
             <li>
               <a href="#">
-                <i className="fab fa-dribbble"></i>
+                <FaFacebookSquare />
               </a>
             </li>
           </ul>

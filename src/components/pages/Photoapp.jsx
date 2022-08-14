@@ -1,4 +1,5 @@
 import React from "react";
+import slider1 from "../../assets/images/slider.png";
 
 const Photoapp = () => {
   return (
@@ -20,7 +21,7 @@ const Photoapp = () => {
           </div>
           <div className="col-lg-6 photoapp-img">
             <div className="imgd">
-              <img src="assets/images/slider.png" alt="" />
+              <img src={slider1} alt="" />
             </div>
           </div>
         </div>
