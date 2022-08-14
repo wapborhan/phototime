@@ -1,5 +1,11 @@
 import React from "react";
 
+// Image Import
+import commimg1 from "../../assets/images/comm-1.jpg";
+import commimg2 from "../../assets/images/comm-2.jpg";
+//
+import Carosol from "./Carosol";
+
 export const Comminuty = () => {
   return (
     <section id="comminuty">
@@ -14,59 +20,8 @@ export const Comminuty = () => {
           </div>
           <div className="col-lg-8">
             <div className="comm-slider">
-              <div className="main-about-image owl-carousel owl-theme">
-                <div className="item about-img">
-                  <div className="about-img-iteam">
-                    <img src="assets/images/comm-1.jpg" alt="" />
-                  </div>
-
-                  {/* <div className="about-overley">
-                                    <div className="overly-content">
-                                        <img src="assets/images/icon.png" alt="">
-                                        <h2>Body Treatment</h2>
-                                    </div>
-                                </div> */}
-                </div>
-                <div className="item about-img">
-                  <div className="about-img-iteam">
-                    <img src="assets/images/comm-2.jpg" alt="" />
-                  </div>
-                  {/* <!--
-                                <div className="about-overley">
-                                    <div className="overly-content">
-                                        <img src="assets/images/icon.png" alt="">
-                                        <h2>Body Treatment</h2>
-                                    </div>
-                                </div>
---> */}
-                </div>
-                <div className="item about-img">
-                  <div className="about-img-iteam">
-                    <img src="assets/images/comm-1.jpg" alt="" />
-                  </div>
-                  {/* <!--
-                                <div className="about-overley">
-                                    <div className="overly-content">
-                                        <img src="assets/images/icon.png" alt="">
-                                        <h2>Body Treatment</h2>
-                                    </div>
-                                </div>
---> */}
-                </div>
-                <div className="item about-img">
-                  <div className="about-img-iteam">
-                    <img src="assets/images/comm-2.jpg" alt="" />
-                  </div>
-                  {/* <!--
-                                <div className="about-overley">
-                                    <div className="overly-content">
-                                        <img src="assets/images/icon.png" alt="">
-                                        <h2>Body Treatment</h2>
-                                    </div>
-                                </div>
---> */}
-                </div>
-              </div>
+              <Carosol />
+              <div className="main-about-image owl-carousel owl-theme"></div>
             </div>
           </div>
         </div>

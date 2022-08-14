@@ -1,4 +1,5 @@
 import React from "react";
+import design1 from "../../assets/images/design-mobile.png";
 
 const Design = () => {
   return (
@@ -24,11 +25,7 @@ const Design = () => {
             <div className="carousel-item active">
               <div className="slider-iteam">
                 <div className="slider-img">
-                  <img
-                    className="w-100"
-                    src="assets/images/design-mobile.png"
-                    alt="First slide"
-                  />
+                  <img className="w-100" src={design1} alt="First slide" />
                 </div>
                 <div className="carousel-captions">
                   <h5>Design</h5>
@@ -49,11 +46,7 @@ const Design = () => {
             <div className="carousel-item">
               <div className="slider-iteam">
                 <div className="slider-img">
-                  <img
-                    className="w-100"
-                    src="assets/images/design-mobile.png"
-                    alt="First slide"
-                  />
+                  <img className="w-100" src={design1} alt="First slide" />
                 </div>
                 <div className="carousel-captions">
                   <h5>Design</h5>
@@ -74,11 +67,7 @@ const Design = () => {
             <div className="carousel-item">
               <div className="slider-iteam">
                 <div className="slider-img">
-                  <img
-                    className="w-100"
-                    src="assets/images/design-mobile.png"
-                    alt="First slide"
-                  />
+                  <img className="w-100" src={design1} alt="First slide" />
                 </div>
                 <div className="carousel-captions">
                   <h5>Design</h5>
