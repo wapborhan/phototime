@@ -1,9 +1,4 @@
 import React from "react";
-
-// Image Import
-import commimg1 from "../../assets/images/comm-1.jpg";
-import commimg2 from "../../assets/images/comm-2.jpg";
-//
 import Carosol from "./Carosol";
 
 export const Comminuty = () => {
