@@ -1,17 +1,18 @@
 import React from "react";
+import subBG from "../../assets/images/subs-bg.jpg";
 
 const Subscription = () => {
   return (
     <section
       id="subscribe"
       style={{
-        backgroundImage: `url("assets/images/subs-bg.jpg")`,
+        backgroundImage: `url(${subBG})`,
       }}
     >
       <div className="subs-overly"></div>
       <div className="container">
         <div className="row text-center ">
-          <div className="col-lg-12 main-subs">
+          <div className="col-lg-12 main-subs text-light">
             <h2>subscribe to us community</h2>
 
             <div className="input-box">

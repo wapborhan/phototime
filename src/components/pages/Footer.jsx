@@ -27,7 +27,7 @@ const Footer = () => {
             <div className="foot-logo">
               <img src="assets/images/foot-logo.png" alt="" />
               <div className="design-by">
-                design By <a href="http://srdreamlab.com">SR Dream Lab</a>
+                design By <a href="http://www.srdreamlab.com">SR Dream Lab</a>
               </div>
             </div>
           </div>
