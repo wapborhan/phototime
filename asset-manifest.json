@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/phototime/static/css/main.bd681eed.css",
-    "main.js": "/phototime/static/js/main.afa73d77.js",
+    "main.css": "/phototime/static/css/main.aedd82e7.css",
+    "main.js": "/phototime/static/js/main.0f530f2c.js",
     "static/js/787.a5596b41.chunk.js": "/phototime/static/js/787.a5596b41.chunk.js",
     "static/media/head-bg.jpg": "/phototime/static/media/head-bg.f71534baf778ed999fd6.jpg",
+    "static/media/subs-bg.jpg": "/phototime/static/media/subs-bg.3cd5102e990c2f865d93.jpg",
     "static/media/slider.png": "/phototime/static/media/slider.d66f1c5930378adc775f.png",
     "static/media/GothamRounded-Medium.woff": "/phototime/static/media/GothamRounded-Medium.4a71ecfa1dfbf75932e9.woff",
     "static/media/comm-1.jpg": "/phototime/static/media/comm-1.cdc6ea2a5cc4973ddba6.jpg",
@@ -15,12 +16,12 @@
     "static/media/GothamRounded-Light.woff2": "/phototime/static/media/GothamRounded-Light.5ab3e0b13afdee3006c9.woff2",
     "static/media/design-mobile.png": "/phototime/static/media/design-mobile.6010127cd0ed5b7c6443.png",
     "index.html": "/phototime/index.html",
-    "main.bd681eed.css.map": "/phototime/static/css/main.bd681eed.css.map",
-    "main.afa73d77.js.map": "/phototime/static/js/main.afa73d77.js.map",
+    "main.aedd82e7.css.map": "/phototime/static/css/main.aedd82e7.css.map",
+    "main.0f530f2c.js.map": "/phototime/static/js/main.0f530f2c.js.map",
     "787.a5596b41.chunk.js.map": "/phototime/static/js/787.a5596b41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd681eed.css",
-    "static/js/main.afa73d77.js"
+    "static/css/main.aedd82e7.css",
+    "static/js/main.0f530f2c.js"
   ]
 }
